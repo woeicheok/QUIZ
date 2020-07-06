@@ -1,0 +1,18 @@
+Questions:
+• What will be the output when running the above code?
+• What is meant by polymorphism ?
+  ANS: Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. Polymorphism also one of the Object-oriented programming System(OOPs) feature that allows us to perform a single action in different ways. 
+• How does polymorphism work in the above program?
+  ANS: Polymorphism work in the above program by related class to each an other by inheritance. Class Dog and Cat is inherit the class Animal.
+• The method introduceYourself of Animal appears to be never called? Why not?
+  ANS: Because method introduceYourself of animal had been overrided by the class dog and cat so it does need to be called.
+• Comment out the method introduceYourself in Dog. What happens now when you run the program?
+  ANS: 
+• Where is the name stored for the instances of Cat and Dog? (In what / which classes did you put the instance variable that refers to the name of the animal? Both Cat and Dog, or just in Animal?)
+  ANS: The name stored for the instances of Cat and Dog is stored in the Animal class.
+• How does the code in the test program work?
+  ANS: The program is work using while loop with array.
+• How does an array work?
+  ANS: An array is a data structure, which can store a fixed-size collection of elements of the same data type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+• In the above programs we have used a while loop to step through the array and to get information about the animals. But there is a more appropriate loop statement here. What is it?
+  ANS: For loop statement.
